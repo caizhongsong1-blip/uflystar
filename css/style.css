@@ -501,6 +501,7 @@ h3 { font-size: 1.25rem; }
   padding: 10px;
 }
 .contact-whatsapp p { color: var(--muted); font-size: 0.9rem; margin: 0; }
+.contact-email a {color: var(--email-color, #f5a623); }
 
 /* ===== Footer ===== */
 .footer {
