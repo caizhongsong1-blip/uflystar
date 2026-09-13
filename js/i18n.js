@@ -3,7 +3,7 @@
 const I18N = {
   en: {
     "meta.title": "UFlyStar — Industrial Drones for Harsh Environments",
-    "meta.desc": "Industrial drone products and custom solutions for agriculture, mining, infrastructure and inspection across Africa.",
+    "meta.desc": "Industrial drone products and custom solutions for agriculture, mining, infrastructure and inspection.",
 
     "nav.products": "Products",
     "nav.industries": "Industries",
@@ -144,7 +144,7 @@ const I18N = {
 
   fr: {
     "meta.title": "UFlyStar — Drones industriels pour environnements extrêmes",
-    "meta.desc": "Drones industriels et solutions sur mesure pour l'agriculture, les mines, les infrastructures et l'inspection en Afrique.",
+    "meta.desc": "Drones industriels et solutions sur mesure pour l'agriculture, les mines, les infrastructures et l'inspection.",
 
     "nav.products": "Produits",
     "nav.industries": "Secteurs",
