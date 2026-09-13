@@ -12,7 +12,7 @@ const I18N = {
     "nav.contact": "Contact Us",
 
     "hero.eyebrow": "Industrial UAV Platform · Built for the Field",
-    "hero.title": "Industrial Drones Engineered for Africa's Toughest Environments",
+    "hero.title": "Industrial Drones Engineered for Toughest Environments",
     "hero.sub": "Heat-resistant, dust-proof, long-endurance drones and turnkey solutions for agriculture, mining, infrastructure and wide-area inspection — customized to your terrain, climate and budget.",
     "hero.cta1": "Explore Products",
     "hero.cta2": "Request a Custom Solution",
