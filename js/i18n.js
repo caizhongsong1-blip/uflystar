@@ -153,7 +153,7 @@ const I18N = {
     "nav.contact": "Contactez-nous",
 
     "hero.eyebrow": "Plateforme UAV industrielle · Conçue pour le terrain",
-    "hero.title": "Des drones industriels conçus pour les environnements les plus exigeants d'Afrique",
+    "hero.title": "Des drones industriels conçus pour les environnements les plus exigeants",
     "hero.sub": "Drones résistants à la chaleur et à la poussière, à longue autonomie, et solutions clés en main pour l'agriculture, les mines, les infrastructures et l'inspection à grande échelle — adaptés à votre terrain, climat et budget.",
     "hero.cta1": "Découvrir les produits",
     "hero.cta2": "Demander une solution sur mesure",
